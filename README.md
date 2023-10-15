@@ -34,10 +34,11 @@ The script leverages the [pytube](https://github.com/pytube/pytube) library for 
 
 ## License
 
-This project is licensed under the GNU General Public License [GPL](https://github.com/ihsanalapsi/YouTube-Playlist-Downloader/blob/master/LICENSE)
+This project is licensed under the GNU General Public License [GPL](https://github.com/ihsanalapsi/YouTube-Playlist-Downloader/blob/master/LICENSE).
 
 ### Contact
-If you have any questions or want to get in touch, you can reach out to me through [LinkedIn](https://bit.ly/linkedin_ihsanalapsi) or [Instagram](https://bit.ly/3IXTqqM) .
+If you have any questions or want to get in touch, you can reach out to me through [LinkedIn](https://bit.ly/linkedin_ihsanalapsi) or [Instagram](https://bit.ly/3IXTqqM).
+
 ---
 **Note:** Please be responsible and respect YouTube's terms of service when using this script. Ensure that you have the necessary rights or permissions to download and use the content you are interested in.
 
