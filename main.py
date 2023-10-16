@@ -59,3 +59,4 @@ for video_url in playlist.video_urls:
         print(f"An error occurred while downloading the video: {str(e)}")
 
 print("All videos have been downloaded.")
+
